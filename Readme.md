@@ -158,10 +158,15 @@ ___
 
 ### Git 기본 설정 정리
 `git config —global user.name “username”`
+
 :GitHub에서 설정한 이름을 등록
+
 `git config —global user.email “my@email.com”`
+
 :GitHub에서 설정한 이름을 등록
+
 `git remote add origin https://github.com/kdt-live/test.git`
+
 :GitHub에서 만든 Repository에 접근하도록 설정
 
 ### 원격 저장소 정보 확인
